@@ -13,6 +13,8 @@ public class Main {
                 contato -> System.out.println("Nome: "+contato.getNome())
         );
 
+        System.out.println("Fera");
+
 
        /* List<String> listinha = new ArrayList<String>();
         listinha.add("Nome novo");
