@@ -41,7 +41,3 @@ jobs:
           LOG_LEVEL: WARN
           SUPPRESS_POSSUM: true
           CREATE_LOG_FILE: true
-          
-          # 🚫 Disable unnecessary validators
-          VALIDATE_JSCPD: false        # Copy-paste detection
-          VALIDATE_KUBERNETES_KUBECONFORM: false
