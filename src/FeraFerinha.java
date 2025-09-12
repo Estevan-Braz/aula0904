@@ -1,3 +1,3 @@
 public class FeraFerinha {
-    private String nome;
+    private String nome
 }
