@@ -43,7 +43,6 @@
             <property name="ordered" value="true"/>
             <property name="separated" value="true"/>
             <property name="sortStaticImportsAlphabetically" value="true"/>
-            <property name="sortImportsInGroupAlphabetically" value="true"/>
         </module>
         <module name="AvoidStarImport"/>
         <module name="UnusedImports"/>
